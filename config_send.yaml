@@ -1,0 +1,7 @@
+pairs:
+  - sender_keypair: "wallets/sender1.json"
+    recipient: "D6U1xDjZK15v25mx7z8Nr23EcoZGZvqs3BpWL9E4zyst"
+    lamports: 7
+  - sender_keypair: "wallets/sender2.json"
+    recipient: "6bF76NE3evxKrE3t4x113VLUjteUNjcnY9WSiSVamTby"
+    lamports: 2

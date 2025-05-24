@@ -1,0 +1,5 @@
+grpc_endpoint: "https://grpc.ny.shyft.to"
+grpc_token: "b2b972c6-fff2-4b5c-aac9-375c6984b80e"
+sender_keypair: "wallets/sender1.json"
+recipient: "D6U1xDjZK15v25mx7z8Nr23EcoZGZvqs3BpWL9E4zyst"
+sol: 0.000000001
